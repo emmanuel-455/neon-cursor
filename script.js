@@ -5,7 +5,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 const trailLength = 20;
-const trailColor = "0,255,255"; //RGB values for cyan color
+const trailColor = "0,255,255"; //RGB values for cyan color and others
 const trail = [];
 
 function draw() {
