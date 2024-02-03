@@ -7,7 +7,7 @@ canvas.height = window.innerHeight;
 const trailLength = 20;
 const trailColor = "0,255,255"; 
 const trail = [];
-
+//colors
 function draw() {
   ctx.fillStyle = "rgba(0,0,0,0.1)";
   ctx.fillRect(0, 0, canvas.width, canvas.height);
